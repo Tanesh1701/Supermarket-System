@@ -1,0 +1,886 @@
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\Microsoft.Build.dll
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\System.Text.Json.dll
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\System.Memory.dll
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Akilesh\source\repos\Assignment\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\Akilesh\source\repos\Assignment\Assignment\obj\Debug\Assignment.exe.config
+C:\Users\Akilesh\source\repos\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\Akilesh\source\repos\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\Akilesh\source\repos\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Akilesh\source\repos\Assignment\Assignment\obj\Debug\Assignment.csproj.CopyComplete
+C:\Users\Akilesh\source\repos\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\Akilesh\source\repos\Assignment\Assignment\obj\Debug\Assignment.pdb
+C:\Users\Akilesh\source\repos\Assignment\Assignment\obj\Debug\Assignment.frmDashboard.resources
+C:\Users\Akilesh\source\repos\Assignment\Assignment\obj\Debug\Assignment.frmLoginCustomer.resources
+C:\Users\Akilesh\source\repos\Assignment\Assignment\obj\Debug\Assignment.Loading.resources
+C:\Users\Akilesh\source\repos\Assignment\Assignment\obj\Debug\Assignment.frmLoginAE.resources
+C:\Users\Akilesh\source\repos\Assignment\Assignment\obj\Debug\Assignment.frmRegisterCustomer.resources
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\SupermarketDataSet.Designer.cs
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\SupermarketDataSet.xsc
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\SupermarketDataSet.xsd
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\SupermarketDataSet.xss
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\Supermarket_log.ldf
+C:\Users\Akilesh\source\repos\Assignment\Assignment\bin\Debug\Supermarket.mdf
+C:\Users\Akilesh\source\repos\Assignment\Assignment\obj\Debug\Assignment.frmStock.resources
+C:\Users\Akilesh\source\repos\Assignment\Assignment\obj\Debug\Assignment.frmAddEmployee.resources
+C:\Users\Akilesh\source\repos\Assignment\Assignment\obj\Debug\Assignment.frmStaff.resources
+C:\Users\Akilesh\source\repos\Assignment\Assignment\obj\Debug\Assignment.frmUpdateEmployee.resources
+C:\Users\Akilesh\source\repos\Assignment\Assignment\obj\Debug\Assignment.frmPayroll.resources
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\Supermarket.mdf
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\Supermarket_log.ldf
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\Microsoft.Build.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\System.Text.Json.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\System.Memory.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.exe.config
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.frmAddEmployee.resources
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.frmPayroll.resources
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.frmRegisterCustomer.resources
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.frmStaff.resources
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.frmUpdateEmployee.resources
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.Loading.resources
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.frmDashboard.resources
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.frmLoginAE.resources
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.frmLoginCustomer.resources
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.frmStock.resources
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.csproj.CopyComplete
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.pdb
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.frmDashboardCustomer.resources
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\Supermarket.mdf
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\Supermarket_log.ldf
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\SupermarketDataSet.Designer.cs
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\SupermarketDataSet.xsc
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\SupermarketDataSet.xsd
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\SupermarketDataSet.xss
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\Assignment.exe
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\Microsoft.Build.dll
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\System.Text.Json.dll
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\System.Memory.dll
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\obj\Debug\Assignment.exe.config
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\obj\Debug\Assignment.frmAddEmployee.resources
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\obj\Debug\Assignment.frmDashboardCustomer.resources
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\obj\Debug\Assignment.frmOrder.resources
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\obj\Debug\Assignment.frmPayroll.resources
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\obj\Debug\Assignment.frmRegisterCustomer.resources
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\obj\Debug\Assignment.frmStaff.resources
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\obj\Debug\Assignment.frmUpdateEmployee.resources
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\obj\Debug\Assignment.frmUpdateStock.resources
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\obj\Debug\Assignment.Loading.resources
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\obj\Debug\Assignment.frmDashboard.resources
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\obj\Debug\Assignment.frmLoginAE.resources
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\obj\Debug\Assignment.frmLoginCustomer.resources
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\obj\Debug\Assignment.frmStock.resources
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\obj\Debug\Assignment.csproj.CopyComplete
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\obj\Debug\Assignment.exe
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\obj\Debug\Assignment.pdb
+C:\Users\Tanesh\Downloads\Assignment10\Assignment\obj\Debug\Assignment.frmOverview.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Supermarket.mdf
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Supermarket_log.ldf
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Assignment.exe
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Microsoft.Build.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\System.Text.Json.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\System.Memory.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.exe.config
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmAddEmployee.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmDashboardCustomer.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmOrder.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmOverview.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmPayroll.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmRegisterCustomer.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmStaff.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmUpdateEmployee.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmUpdateStock.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.Loading.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmDashboard.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmLoginAE.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmLoginCustomer.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmStock.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.csproj.CopyComplete
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.exe
+C:\Users\Akilesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.pdb
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Supermarket.mdf
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Supermarket_log.ldf
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Assignment.exe
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Microsoft.Build.dll
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\System.Text.Json.dll
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\System.Memory.dll
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.exe.config
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmAddEmployee.resources
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmDashboardCustomer.resources
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmOrder.resources
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmOrderCustomer.resources
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmOverview.resources
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmPayroll.resources
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmRegisterCustomer.resources
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmStaff.resources
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmUpdateEmployee.resources
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmUpdateStock.resources
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.Loading.resources
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmDashboard.resources
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmLoginAE.resources
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmLoginCustomer.resources
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmStock.resources
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.csproj.CopyComplete
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.exe
+C:\Users\Tanesh\Downloads\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.pdb
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Supermarket.mdf
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Supermarket_log.ldf
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Assignment.exe
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Microsoft.Build.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\System.Text.Json.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\System.Memory.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.exe.config
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmAddEmployee.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmDashboardCustomer.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmOrder.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmOrderCustomer.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmOverview.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmPayroll.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmRegisterCustomer.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmStaff.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmUpdateEmployee.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmUpdateStock.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.Loading.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmDashboard.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmLoginAE.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmLoginCustomer.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.frmStock.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.csproj.CopyComplete
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.exe
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes)\Assignment\obj\Debug\Assignment.pdb
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\Assignment.exe
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\Microsoft.Build.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\System.Text.Json.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\System.Memory.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\obj\Debug\Assignment.exe.config
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\obj\Debug\Assignment.frmAddEmployee.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\obj\Debug\Assignment.frmDashboardCustomer.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\obj\Debug\Assignment.frmOrder.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\obj\Debug\Assignment.frmOrderCustomer.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\obj\Debug\Assignment.frmOverview.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\obj\Debug\Assignment.frmPayroll.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\obj\Debug\Assignment.frmRegisterCustomer.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\obj\Debug\Assignment.frmStaff.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\obj\Debug\Assignment.frmUpdateEmployee.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\obj\Debug\Assignment.frmUpdateStock.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\obj\Debug\Assignment.Loading.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\obj\Debug\Assignment.frmDashboard.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\obj\Debug\Assignment.frmLoginAE.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\obj\Debug\Assignment.frmLoginCustomer.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\obj\Debug\Assignment.frmStock.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\obj\Debug\Assignment.csproj.CopyComplete
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\obj\Debug\Assignment.exe
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\obj\Debug\Assignment.pdb
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\obj\Debug\Assignment.frmCalculator.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\Supermarket.mdf
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated forms and some colour schemes) - Copy\Assignment\bin\Debug\Supermarket_log.ldf
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.exe.config
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmAddEmployee.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmCalculator.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmDashboardCustomer.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmOrder.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmOrderCustomer.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmOverview.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmPayroll.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmProduct.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmRegisterCustomer.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmStaff.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmUpdateEmployee.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmUpdateStock.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.Loading.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmDashboard.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmLoginAE.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmLoginCustomer.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmStock.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.exe
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.pdb
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\Supermarket.mdf
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\Supermarket_log.ldf
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\Assignment.exe
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\Common.Logging.Core.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\Common.Logging.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\itext.barcodes.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\itext.forms.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\itext.io.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\itext.kernel.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\itext.layout.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\itext.pdfa.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\itext.sign.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\itext.svg.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\Microsoft.Build.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\System.Text.Json.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\System.Memory.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\Common.Logging.pdb
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\Common.Logging.xml
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\Common.Logging.Core.xml
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\itext.barcodes.xml
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\itext.forms.xml
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\itext.io.xml
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\itext.kernel.xml
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\itext.layout.xml
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\itext.pdfa.xml
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\itext.sign.xml
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\itext.svg.xml
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.csproj.CopyComplete
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmProductSoftDrinks.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmProductOthers.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmProductFoods.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\EPPlus.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\EPPlus.xml
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmProductCan.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmProductSFR.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmProductBreakfast.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmProductPN.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmProductBathroom.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmProductLaundry.resources
+C:\Users\Akilesh\OneDrive\Documents\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmProductCleaning.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\Supermarket.mdf
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\Supermarket_log.ldf
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\Assignment.exe
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\Common.Logging.Core.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\Common.Logging.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\EPPlus.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\itext.barcodes.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\itext.forms.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\itext.io.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\itext.kernel.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\itext.layout.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\itext.pdfa.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\itext.sign.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\itext.svg.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\Microsoft.Build.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\System.Text.Json.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\System.Memory.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\Common.Logging.pdb
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\Common.Logging.xml
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\Common.Logging.Core.xml
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\EPPlus.xml
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\itext.barcodes.xml
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\itext.forms.xml
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\itext.io.xml
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\itext.kernel.xml
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\itext.layout.xml
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\itext.pdfa.xml
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\itext.sign.xml
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\itext.svg.xml
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.exe.config
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmAddEmployee.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmCalculator.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmDashboardCustomer.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmOrder.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmOrderCustomer.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmOverview.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmPayroll.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmProduct.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.Notepad.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmProductCleaning.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmProductBathroom.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmProductLaundry.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmProductBreakfast.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmProductPN.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmProductSFR.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmProductCan.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmProductFoods.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmProductOthers.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmProductSoftDrinks.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmRegisterCustomer.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmStaff.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmUpdateEmployee.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmUpdateStock.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.Loading.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmDashboard.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmLoginAE.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmLoginCustomer.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.frmStock.resources
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.csproj.CopyComplete
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.exe
+C:\Users\Akilesh\Downloads\Assignment(Updated Database)\Assignment\obj\Debug\Assignment.pdb
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\Supermarket.mdf
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\Supermarket_log.ldf
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\Assignment.exe
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\Common.Logging.Core.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\Common.Logging.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\EPPlus.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\itext.barcodes.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\itext.forms.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\itext.io.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\itext.kernel.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\itext.layout.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\itext.pdfa.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\itext.sign.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\itext.svg.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\Microsoft.Build.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\System.Text.Json.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\System.Memory.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\Common.Logging.pdb
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\Common.Logging.xml
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\Common.Logging.Core.xml
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\EPPlus.xml
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\itext.barcodes.xml
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\itext.forms.xml
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\itext.io.xml
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\itext.kernel.xml
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\itext.layout.xml
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\itext.pdfa.xml
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\itext.sign.xml
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\itext.svg.xml
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.exe.config
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.frmAddEmployee.resources
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.frmCalculator.resources
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.frmDashboardCustomer.resources
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.frmOrder.resources
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.frmOrderCustomer.resources
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.frmOverview.resources
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.frmPayroll.resources
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.frmProduct.resources
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.Notepad.resources
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.frmProductCleaning.resources
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.frmProductBathroom.resources
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.frmProductLaundry.resources
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.frmProductBreakfast.resources
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.frmProductPN.resources
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.frmProductSFR.resources
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.frmProductCan.resources
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.frmProductFoods.resources
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.frmProductOthers.resources
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.frmProductSoftDrinks.resources
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.frmRegisterCustomer.resources
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.frmStaff.resources
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.frmUpdateEmployee.resources
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.frmUpdateStock.resources
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.Loading.resources
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.frmDashboard.resources
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.frmLoginAE.resources
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.frmLoginCustomer.resources
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.frmStock.resources
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.csproj.CopyComplete
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.exe
+C:\Users\Akilesh\Downloads\Assignment Good Version\Assignment\obj\Debug\Assignment.pdb
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\Supermarket.mdf
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\Supermarket_log.ldf
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\Assignment.exe
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\Common.Logging.Core.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\Common.Logging.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\EPPlus.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\itext.barcodes.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\itext.forms.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\itext.io.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\itext.kernel.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\itext.layout.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\itext.pdfa.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\itext.sign.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\itext.svg.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\Microsoft.Build.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\System.Text.Json.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\System.Memory.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\Common.Logging.pdb
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\Common.Logging.xml
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\Common.Logging.Core.xml
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\EPPlus.xml
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\itext.barcodes.xml
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\itext.forms.xml
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\itext.io.xml
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\itext.kernel.xml
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\itext.layout.xml
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\itext.pdfa.xml
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\itext.sign.xml
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\itext.svg.xml
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.exe.config
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.frmAddEmployee.resources
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.frmCalculator.resources
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.frmDashboardCustomer.resources
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.frmOrder.resources
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.frmOrderCustomer.resources
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.frmOverview.resources
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.frmPayroll.resources
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.frmProduct.resources
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.Notepad.resources
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.frmProductCleaning.resources
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.frmProductBathroom.resources
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.frmProductLaundry.resources
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.frmProductBreakfast.resources
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.frmProductPN.resources
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.frmProductSFR.resources
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.frmProductCan.resources
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.frmProductFoods.resources
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.frmProductOthers.resources
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.frmProductSoftDrinks.resources
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.frmRegisterCustomer.resources
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.frmStaff.resources
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.frmUpdateEmployee.resources
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.frmUpdateStock.resources
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.Loading.resources
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.frmDashboard.resources
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.frmLoginAE.resources
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.frmLoginCustomer.resources
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.frmStock.resources
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.csproj.CopyComplete
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.exe
+C:\Users\Akilesh\OneDrive\Desktop\Assignment Final\Assignment\obj\Debug\Assignment.pdb
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\Common.Logging.Core.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\Common.Logging.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\EPPlus.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\itext.barcodes.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\itext.forms.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\itext.io.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\itext.kernel.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\itext.layout.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\itext.pdfa.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\itext.sign.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\itext.svg.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\Common.Logging.pdb
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\Common.Logging.xml
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\Common.Logging.Core.xml
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\EPPlus.xml
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\itext.barcodes.xml
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\itext.forms.xml
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\itext.io.xml
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\itext.kernel.xml
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\itext.layout.xml
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\itext.pdfa.xml
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\itext.sign.xml
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\itext.svg.xml
+C:\Users\Tanesh\Downloads\Assignment\Assignment\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.frmCalculator.resources
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.frmOrder.resources
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.frmOrderCustomer.resources
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.frmOverview.resources
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.frmProduct.resources
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.Notepad.resources
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.frmProductCleaning.resources
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.frmProductBathroom.resources
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.frmProductLaundry.resources
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.frmProductBreakfast.resources
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.frmProductPN.resources
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.frmProductSFR.resources
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.frmProductCan.resources
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.frmProductFoods.resources
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.frmProductOthers.resources
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.frmProductSoftDrinks.resources
+C:\Users\Tanesh\Downloads\Assignment\Assignment\obj\Debug\Assignment.frmUpdateStock.resources
